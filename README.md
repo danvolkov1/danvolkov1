@@ -1,9 +1,26 @@
-### Hi there 👋
+<h1>Hi, I'm Dan! <br/><a </a></h1>
 
-<!--
-**danvolkov1/danvolkov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- <h2>🔭 I’m currently working on ...</h2>
+  - <b>Finishing my Bachalors Degreee
+
+<h2>💻 Cybersecurity and IT projects: </h2>
+
+- <b>Active Directory Home Lab</b>
+  - [Placeholder](github link)
+
+<h2> Certifitcations </h2>
+
+- <b>Comptia A+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/daniil-volkov/
+
+
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
